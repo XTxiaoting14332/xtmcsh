@@ -13,7 +13,10 @@ type this command↑↑↑↑↑
 
 Then,type:
 然后输入
-<h1>wget https://raw.githubusercontent.com/XTxiaoting14332/termux-MCserver-helper/main/install.sh</h1>
+<h1>wget https://raw.github.com/XTxiaoting14332/termux-MCserver-helper/main/install.sh</h1>
+if you can't connect to github,please type
+如果你无法连接至github,请输入
+<h1>wget https://raw.fastgit.org/XTxiaoting14332/termux-MCserver-helper/main/install.sh</h1>
 
 Finaly,type this command start!
 最后，输入这个指令开始吧！
