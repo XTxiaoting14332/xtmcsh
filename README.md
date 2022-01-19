@@ -20,7 +20,7 @@ wget https://raw.github.com/XTxiaoting14332/termux-MCserver-helper/main/install.
 if you can't connect to github,please type
 如果你无法连接至github,请输入
 ```
-wget https://raw.fastgit.org/XTxiaoting14332/termux-MCserver-helper/main/install.sh
+wget https://raw.github.com.cnpmjs.org/XTxiaoting14332/termux-MCserver-helper/main/install.sh
 ```
 Finaly,type this command start!
 最后，输入这个指令开始吧！
