@@ -1,4 +1,4 @@
-# Termux-MCserver-helper-B
+# XTMCSH
 OH,yeah.Now,the Termux MCserver helper support English!
 哦，现在Termux开服小助手支持英文了！
 
