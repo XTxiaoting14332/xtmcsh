@@ -1,6 +1,6 @@
 # XTMCSH
-OH,yeah.Now,the Termux MCserver helper support English!
-哦，现在Termux开服小助手支持英文了！
+XTMCSH——Launch Minecraft Java server on your Android📱 or Linux!
+XTMCSH——在你的Android设备或Linux上启动Minecraft JAVA服务器！
 
 It tooks my so much time!
 它花费了我许多时间
