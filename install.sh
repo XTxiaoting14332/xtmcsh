@@ -1,5 +1,5 @@
 #!/bin/sh/
-#TEEMUX MINECERAFT SERVER HELPER 2021
+#XTMCSH2022
 #by XTxiaoting14332
 #Date2021.12.30T19:33
 #Installer
@@ -147,8 +147,8 @@ cm
 echo $wait
 sleep 0.8
 echo $getn
-wget $mir/XTxiaoting14332/Termux-MCserver-helper-B/releases/download/${l}/mc-server
-wget $raw/XTxiaoting14332/Termux-MCserver-helper/lang/${dl}.lang
+wget $mir/XTxiaoting14332/xtmcsh/releases/download/${l}/mc-server
+wget $raw/XTxiaoting14332/xtmcsh/lang/${dl}.lang
 sed -i 
 rm ver
 echo $ins
