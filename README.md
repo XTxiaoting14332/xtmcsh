@@ -20,7 +20,7 @@ wget https://raw.github.com/XTxiaoting14332/xtmcsh/main/install.sh
 if you can't connect to github,please type
 如果你无法连接至github,请输入
 ```
-wget https://github.2096779623.workers.dev/XTxiaoting14332/xtmcsh/raw/main/install.sh
+wget https://hub.fastgit.xyz/XTxiaoting14332/xtmcsh/raw/main/install.sh
 ```
 Finaly,type this command start!
 最后，输入这个指令开始吧！
